@@ -1,0 +1,181 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {},
+    "meshes_properties": {
+        "water_surface:plane": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_water_surface",
+            "bungie_object_ID": "35a5ce1e-0e58-2d93-4e13-1f5e4aea4790"
+        },
+        "water": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "07e8ae75-935a-4cbc-3272-7489a16eae15",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default"
+        },
+        "unnamed base superhigh": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "f8642b2a-b376-8b63-927d-096b8bf4f1c5"
+        },
+        "level_portals": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_portal",
+            "bungie_object_ID": "550e29c0-b303-6dd9-c017-ecfeac8d0ce3",
+            "bungie_mesh_portal_type": "_connected_geometry_portal_type_two_way"
+        },
+        "stone_bridge": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "a1f1fa96-0bef-953a-fe45-0442a933c7e8"
+        },
+        "unnamed base superhigh hangar doors": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "7f423037-664b-1acb-d06f-d283a5d35c0a"
+        },
+        "terrain": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "feeaa958-ba86-9d10-48f8-fb5b25881f61"
+        },
+        "metal_bridge": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "cf4d9913-0620-5c19-7e9a-5903ead32d78"
+        },
+        "terrain(Sphere Collision Only)": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "4902fd77-b7a7-da6a-5eae-33c258cdc400",
+            "bungie_face_mode": "_connected_geometry_face_mode_sphere_collision_only"
+        }
+    },
+    "material_properties": {
+        "water_koi_ponds_zen'.008": {
+            "bungie_shader_path": "levels\\solo\\m52\\shaders\\water\\water_fountain_a",
+            "bungie_shader_type": "shader_water"
+        },
+        "waterfall": {
+            "bungie_shader_path": "levels\\multi\\forge_halo\\shaders\\water\\forge_halo_waterfall_lower_big",
+            "bungie_shader_type": "shader"
+        },
+        "ext-hangar door": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\ext_bigdoor",
+            "bungie_shader_type": "shader"
+        },
+        "int-hangar door": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\ext_bigdoor",
+            "bungie_shader_type": "shader"
+        },
+        "ext-wall": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\ext_wall",
+            "bungie_shader_type": "shader"
+        },
+        "ext-floor": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\int_floor_1",
+            "bungie_shader_type": "shader"
+        },
+        "ext-hall ceiling": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\int_hall_floor_ceiling",
+            "bungie_shader_type": "shader"
+        },
+        "walltop": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\int_walltop",
+            "bungie_shader_type": "shader"
+        },
+        "wallcenter": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\int_wallcenter",
+            "bungie_shader_type": "shader"
+        },
+        "wallbottom": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\int_wallbotom",
+            "bungie_shader_type": "shader"
+        },
+        "hall ceiling": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\ext_wall_halls",
+            "bungie_shader_type": "shader"
+        },
+        "floor mirrored": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\int_floor_1",
+            "bungie_shader_type": "shader"
+        },
+        "walkable hangar floor": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\int_floor_1",
+            "bungie_shader_type": "shader"
+        },
+        "int-misc": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\int_misc",
+            "bungie_shader_type": "shader"
+        },
+        "int-hallwall": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\int_hall_floor_ceiling",
+            "bungie_shader_type": "shader"
+        },
+        "spasm luminous": {
+            "bungie_shader_path": "levels\\dlc\\cex_timberland\\shaders\\ca_timberland_blue_light_trim2",
+            "bungie_shader_type": "shader"
+        },
+        "floor hallways": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\int_hall_floor_ceiling",
+            "bungie_shader_type": "shader"
+        },
+        "door-small": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\ext_door",
+            "bungie_shader_type": "shader"
+        },
+        "int-ceiling": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\int_hall_floor_ceiling",
+            "bungie_shader_type": "shader"
+        },
+        "column": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\int_column",
+            "bungie_shader_type": "shader"
+        },
+        "lift wall": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\int_lift_wall",
+            "bungie_shader_type": "shader"
+        },
+        "water_koi_ponds_zen'": {
+            "bungie_shader_path": "shaders\\invalid",
+            "bungie_shader_type": "shader"
+        },
+        "bridge_stone": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\bridge_stone",
+            "bungie_shader_type": "shader"
+        },
+        "spasm terrain underwater": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\spasm_terrain_underwater",
+            "bungie_shader_type": "shader_terrain"
+        },
+        "spasm distant underwater": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\spasm_terrain_underwater",
+            "bungie_shader_type": "shader_terrain"
+        },
+        "+sky": {
+            "bungie_shader_path": "bungie_face_type=_connected_geometry_face_type_sky",
+            "bungie_shader_type": "override"
+        },
+        "spasm terrain": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\spasm_terrain",
+            "bungie_shader_type": "shader_terrain"
+        },
+        "bridge_metal": {
+            "bungie_shader_path": "levels\\digsite\\spasm\\spasm\\shaders\\bridge_metal",
+            "bungie_shader_type": "shader"
+        },
+        "invisible": {
+            "bungie_shader_path": "objects\\multi\\shaders\\invisible",
+            "bungie_shader_type": "shader"
+        }
+    }
+}

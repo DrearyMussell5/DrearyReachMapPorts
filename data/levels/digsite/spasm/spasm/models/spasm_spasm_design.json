@@ -1,0 +1,29 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {},
+    "meshes_properties": {
+        "water_surface:plane.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_water_volume_depth": "60.959999",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_water_physics_volume",
+            "bungie_mesh_water_volume_fog_color": "1.000000 0.341592 0.766805 1.000000",
+            "bungie_mesh_water_volume_flow_direction": "0.000000",
+            "bungie_mesh_water_volume_flow_velocity": "1.000000",
+            "bungie_mesh_water_volume_fog_murkiness": "0.150000",
+            "bungie_object_ID": "f4c81e3f-5ef7-3e9c-c157-66284385e42e"
+        }
+    },
+    "material_properties": {
+        "water_koi_ponds_zen'.008": {
+            "bungie_shader_path": "levels\\solo\\m52\\shaders\\water\\water_fountain_a",
+            "bungie_shader_type": "shader_water"
+        }
+    }
+}

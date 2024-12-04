@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Metadata>
+  <Header>
+    <MainRev>0</MainRev>
+    <PointRev>6</PointRev>
+    <Description>Forged in Foundry</Description>
+    <Created>2024-09-26 00:29:46</Created>
+    <By>bdipi</By>
+    <SourceBlend>objects\props\digsite\hangar_control_panels\control_panels\control_panels.blend</SourceBlend>
+    <DirectoryType>TAE.Shared.NWOAssetDirectory</DirectoryType>
+    <Schema>1</Schema>
+  </Header>
+  <Asset Name="control_panels" Type="model">
+    <OutputTagCollection>
+      <OutputTag Type="model">objects\props\digsite\hangar_control_panels\control_panels\control_panels</OutputTag>
+      <OutputTag Type="scenery">objects\props\digsite\hangar_control_panels\control_panels\control_panels</OutputTag>
+    </OutputTagCollection>
+  </Asset>
+  <Folders>
+    <Reference>\reference</Reference>
+    <Temp>\temp</Temp>
+    <SourceModels>\models\work</SourceModels>
+    <GameModels>\models</GameModels>
+    <GamePhysicsModels>\models</GamePhysicsModels>
+    <GameCollisionModels>\models</GameCollisionModels>
+    <ExportModels>\export\models</ExportModels>
+    <ExportPhysicsModels>\export\models</ExportPhysicsModels>
+    <ExportCollisionModels>\export\models</ExportCollisionModels>
+    <SourceAnimations>\animations\work</SourceAnimations>
+    <AnimationsRigs>\animations\rigs</AnimationsRigs>
+    <GameAnimations>\animations</GameAnimations>
+    <ExportAnimations>\export\animations</ExportAnimations>
+    <SourceBitmaps>\bitmaps</SourceBitmaps>
+    <GameBitmaps>\bitmaps</GameBitmaps>
+    <CinemaSource>\cinematics</CinemaSource>
+    <CinemaExport>\export\cinematics</CinemaExport>
+    <ExportBSPs>\models</ExportBSPs>
+    <SourceBSPs>\models</SourceBSPs>
+    <RigFlags>\animations\rigs\flags</RigFlags>
+    <RigPoses>\animations\rigs\poses</RigPoses>
+    <RigRenders>\animations\rigs\render</RigRenders>
+    <Scripts>\scripts</Scripts>
+    <FacePoses>\animations\rigs\poses\face_poses</FacePoses>
+    <CinematicOutsource>\outsource</CinematicOutsource>
+  </Folders>
+  <FaceCollections>
+    <FaceCollection Name="regions" StringTable="connected_geometry_regions_table" Description="Model regions">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="05" Active="true"/>
+        <FaceCollectionEntry Index="1" Name="unnamed" Active="true"/>
+        <FaceCollectionEntry Index="2" Name="04" Active="true"/>
+        <FaceCollectionEntry Index="3" Name="panels" Active="true"/>
+        <FaceCollectionEntry Index="4" Name="13" Active="true"/>
+        <FaceCollectionEntry Index="5" Name="14" Active="true"/>
+        <FaceCollectionEntry Index="6" Name="02" Active="true"/>
+        <FaceCollectionEntry Index="7" Name="12" Active="true"/>
+        <FaceCollectionEntry Index="8" Name="20" Active="true"/>
+        <FaceCollectionEntry Index="9" Name="17" Active="true"/>
+        <FaceCollectionEntry Index="10" Name="19" Active="true"/>
+        <FaceCollectionEntry Index="11" Name="03" Active="true"/>
+        <FaceCollectionEntry Index="12" Name="10" Active="true"/>
+        <FaceCollectionEntry Index="13" Name="18" Active="true"/>
+        <FaceCollectionEntry Index="14" Name="11" Active="true"/>
+        <FaceCollectionEntry Index="15" Name="16" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+    <FaceCollection Name="global materials override" StringTable="connected_geometry_global_material_table" Description="Global material overrides">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+  </FaceCollections>
+  <Contents>
+    <Content Name="control_panels" Type="model">
+      <ContentObject Name="" Type="render_model">
+        <ContentNetwork Name="01" Type="">
+          <InputFile>objects\props\digsite\hangar_control_panels\control_panels\control_panels.blend</InputFile>
+          <IntermediateFile>objects\props\digsite\hangar_control_panels\control_panels\export\models\control_panels_01_render.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\props\digsite\hangar_control_panels\control_panels\control_panels.blend</InputFile>
+          <IntermediateFile>objects\props\digsite\hangar_control_panels\control_panels\export\models\control_panels_render.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="render_model">objects\props\digsite\hangar_control_panels\control_panels\control_panels</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="skeleton">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\props\digsite\hangar_control_panels\control_panels\control_panels.blend</InputFile>
+          <IntermediateFile>objects\props\digsite\hangar_control_panels\control_panels\export\models\control_panels_skeleton.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection/>
+      </ContentObject>
+      <ContentObject Name="" Type="markers">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\props\digsite\hangar_control_panels\control_panels\control_panels.blend</InputFile>
+          <IntermediateFile>objects\props\digsite\hangar_control_panels\control_panels\export\models\control_panels_markers.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection/>
+      </ContentObject>
+    </Content>
+  </Contents>
+</Metadata>

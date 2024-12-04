@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Metadata>
+  <Header>
+    <MainRev>0</MainRev>
+    <PointRev>6</PointRev>
+    <Description>Forged in Foundry</Description>
+    <Created>2024-10-25 01:15:26</Created>
+    <By>bdipi</By>
+    <SourceBlend>levels\digsite\defense\sky\defense\defense.blend</SourceBlend>
+    <DirectoryType>TAE.Shared.NWOAssetDirectory</DirectoryType>
+    <Schema>1</Schema>
+  </Header>
+  <Asset Name="defense" Type="sky" Sky="true">
+    <OutputTagCollection>
+      <OutputTag Type="model">levels\digsite\defense\sky\defense\defense</OutputTag>
+      <OutputTag Type="scenery">levels\digsite\defense\sky\defense\defense</OutputTag>
+    </OutputTagCollection>
+  </Asset>
+  <Folders>
+    <Reference>\reference</Reference>
+    <Temp>\temp</Temp>
+    <SourceModels>\models\work</SourceModels>
+    <GameModels>\models</GameModels>
+    <GamePhysicsModels>\models</GamePhysicsModels>
+    <GameCollisionModels>\models</GameCollisionModels>
+    <ExportModels>\export\models</ExportModels>
+    <ExportPhysicsModels>\export\models</ExportPhysicsModels>
+    <ExportCollisionModels>\export\models</ExportCollisionModels>
+    <SourceAnimations>\animations\work</SourceAnimations>
+    <AnimationsRigs>\animations\rigs</AnimationsRigs>
+    <GameAnimations>\animations</GameAnimations>
+    <ExportAnimations>\export\animations</ExportAnimations>
+    <SourceBitmaps>\bitmaps</SourceBitmaps>
+    <GameBitmaps>\bitmaps</GameBitmaps>
+    <CinemaSource>\cinematics</CinemaSource>
+    <CinemaExport>\export\cinematics</CinemaExport>
+    <ExportBSPs>\models</ExportBSPs>
+    <SourceBSPs>\models</SourceBSPs>
+    <RigFlags>\animations\rigs\flags</RigFlags>
+    <RigPoses>\animations\rigs\poses</RigPoses>
+    <RigRenders>\animations\rigs\render</RigRenders>
+    <Scripts>\scripts</Scripts>
+    <FacePoses>\animations\rigs\poses\face_poses</FacePoses>
+    <CinematicOutsource>\outsource</CinematicOutsource>
+  </Folders>
+  <FaceCollections>
+    <FaceCollection Name="regions" StringTable="connected_geometry_regions_table" Description="Model regions">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="03" Active="true"/>
+        <FaceCollectionEntry Index="1" Name="11" Active="true"/>
+        <FaceCollectionEntry Index="2" Name="14" Active="true"/>
+        <FaceCollectionEntry Index="3" Name="10" Active="true"/>
+        <FaceCollectionEntry Index="4" Name="00" Active="true"/>
+        <FaceCollectionEntry Index="5" Name="16" Active="true"/>
+        <FaceCollectionEntry Index="6" Name="15" Active="true"/>
+        <FaceCollectionEntry Index="7" Name="13" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+    <FaceCollection Name="global materials override" StringTable="connected_geometry_global_material_table" Description="Global material overrides">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+  </FaceCollections>
+  <Contents>
+    <Content Name="defense" Type="model">
+      <ContentObject Name="" Type="render_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>levels\digsite\defense\sky\defense\defense.blend</InputFile>
+          <IntermediateFile>levels\digsite\defense\sky\defense\export\models\defense_sky.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="render_model">levels\digsite\defense\sky\defense\defense</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+    </Content>
+  </Contents>
+</Metadata>

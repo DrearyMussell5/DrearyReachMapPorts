@@ -1,0 +1,46 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {},
+    "meshes_properties": {
+        "water_surface:water_center_platform.001": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_water_volume_depth": "60.959999",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided_transparent",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_water_physics_volume",
+            "bungie_mesh_water_volume_fog_color": "1.000000 0.185299 0.590736 1.000000",
+            "bungie_mesh_water_volume_flow_direction": "0.000000",
+            "bungie_mesh_water_volume_flow_velocity": "1.000000",
+            "bungie_mesh_water_volume_fog_murkiness": "0.500000",
+            "bungie_object_ID": "f064fcd2-da80-68fd-8808-eba790be40c9"
+        },
+        "water_surface:ocean_shore.002": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_water_volume_depth": "60.959999",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_water_physics_volume",
+            "bungie_mesh_water_volume_fog_color": "1.000000 0.340808 0.405439 1.000000",
+            "bungie_mesh_water_volume_flow_direction": "0.000000",
+            "bungie_mesh_water_volume_flow_velocity": "1.000000",
+            "bungie_mesh_water_volume_fog_murkiness": "0.500000",
+            "bungie_object_ID": "ca8fff42-2512-29e5-06d5-f2fbbce25660"
+        }
+    },
+    "material_properties": {
+        "dt tower_pool": {
+            "bungie_shader_path": "levels\\solo\\m52\\shaders\\water\\water_fountain_a",
+            "bungie_shader_type": "shader_water"
+        },
+        "dt ocean_shore": {
+            "bungie_shader_path": "levels\\solo\\m52\\shaders\\water\\water_pool_a",
+            "bungie_shader_type": "shader_water"
+        }
+    }
+}

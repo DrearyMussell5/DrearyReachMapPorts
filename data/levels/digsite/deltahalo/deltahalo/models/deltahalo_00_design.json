@@ -1,0 +1,72 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {},
+    "meshes_properties": {
+        "rain_blocker:+weatherpoly": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop_rain_blocker",
+            "bungie_object_ID": "f484f4d4-8ec0-3a93-7bb0-2a84d1c76257",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "water_surface:ocean_shore.003": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_water_volume_depth": "60.959999",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_water_physics_volume",
+            "bungie_mesh_water_volume_fog_color": "1.000000 0.386141 0.307656 1.000000",
+            "bungie_mesh_water_volume_flow_direction": "0.000000",
+            "bungie_mesh_water_volume_flow_velocity": "1.000000",
+            "bungie_mesh_water_volume_fog_murkiness": "0.500000",
+            "bungie_object_ID": "618858fb-770d-2336-df3d-9351e61bedd5"
+        },
+        "water_surface:water_grotto.001": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_water_volume_depth": "60.959999",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided_transparent",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_water_physics_volume",
+            "bungie_mesh_water_volume_fog_color": "1.000000 0.214592 0.232790 1.000000",
+            "bungie_mesh_water_volume_flow_direction": "0.000000",
+            "bungie_mesh_water_volume_flow_velocity": "1.000000",
+            "bungie_mesh_water_volume_fog_murkiness": "0.500000",
+            "bungie_object_ID": "4f111178-8eb8-9e8e-0630-0afd524b3280"
+        },
+        "water_surface:water_plane.001": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_water_volume_depth": "60.959999",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided_transparent",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_water_physics_volume",
+            "bungie_mesh_water_volume_fog_color": "1.000000 0.252675 0.431832 1.000000",
+            "bungie_mesh_water_volume_flow_direction": "0.000000",
+            "bungie_mesh_water_volume_flow_velocity": "1.000000",
+            "bungie_mesh_water_volume_fog_murkiness": "0.500000",
+            "bungie_object_ID": "27459c5d-ecd1-4abd-b2aa-e2e29d564a49"
+        }
+    },
+    "material_properties": {
+        "+weatherpoly": {
+            "bungie_shader_path": "shaders\\invalid",
+            "bungie_shader_type": "shader"
+        },
+        "dt ocean_shore": {
+            "bungie_shader_path": "levels\\solo\\m52\\shaders\\water\\water_pool_a",
+            "bungie_shader_type": "shader_water"
+        },
+        "dt grotto_water": {
+            "bungie_shader_path": "levels\\solo\\m52\\shaders\\water\\water_fountain_a",
+            "bungie_shader_type": "shader_water"
+        },
+        "dt temple_pool_water": {
+            "bungie_shader_path": "levels\\solo\\m52\\shaders\\water\\water_pool_a",
+            "bungie_shader_type": "shader_water"
+        }
+    }
+}

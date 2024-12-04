@@ -1,0 +1,99 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {},
+    "meshes_properties": {
+        "water_surface:plane.018": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_water_volume_depth": "60.959999",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_water_physics_volume",
+            "bungie_mesh_water_volume_fog_color": "1.000000 0.341592 0.766805 1.000000",
+            "bungie_mesh_water_volume_flow_direction": "0.000000",
+            "bungie_mesh_water_volume_flow_velocity": "1.000000",
+            "bungie_mesh_water_volume_fog_murkiness": "0.150000",
+            "bungie_object_ID": "419a9850-8ad7-d226-a985-56d8e14b69de"
+        },
+        "water_surface:plane.016": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_water_volume_depth": "60.959999",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_water_physics_volume",
+            "bungie_mesh_water_volume_fog_color": "1.000000 0.341592 0.766805 1.000000",
+            "bungie_mesh_water_volume_flow_direction": "0.000000",
+            "bungie_mesh_water_volume_flow_velocity": "1.000000",
+            "bungie_mesh_water_volume_fog_murkiness": "0.150000",
+            "bungie_object_ID": "c617936d-a7cb-90d9-f675-c5d69c277a41"
+        },
+        "water_surface:plane.014": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_water_volume_depth": "60.959999",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_water_physics_volume",
+            "bungie_mesh_water_volume_fog_color": "1.000000 0.341592 0.766805 1.000000",
+            "bungie_mesh_water_volume_flow_direction": "0.000000",
+            "bungie_mesh_water_volume_flow_velocity": "1.000000",
+            "bungie_mesh_water_volume_fog_murkiness": "0.150000",
+            "bungie_object_ID": "795b896c-4032-a399-fb93-6dcf6da3cea2"
+        },
+        "water_surface:plane.019": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_water_volume_depth": "60.959999",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_water_physics_volume",
+            "bungie_mesh_water_volume_fog_color": "1.000000 0.341592 0.766805 1.000000",
+            "bungie_mesh_water_volume_flow_direction": "0.000000",
+            "bungie_mesh_water_volume_flow_velocity": "1.000000",
+            "bungie_mesh_water_volume_fog_murkiness": "0.150000",
+            "bungie_object_ID": "68620635-5018-81bf-6652-120ca1b6d555"
+        },
+        "water_surface:plane.017": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_water_volume_depth": "60.959999",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_water_physics_volume",
+            "bungie_mesh_water_volume_fog_color": "1.000000 0.341592 0.766805 1.000000",
+            "bungie_mesh_water_volume_flow_direction": "0.000000",
+            "bungie_mesh_water_volume_flow_velocity": "1.000000",
+            "bungie_mesh_water_volume_fog_murkiness": "0.150000",
+            "bungie_object_ID": "5bc29c0b-0d81-7752-1431-431bc463643a"
+        },
+        "water_surface:plane.011": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_water_volume_depth": "60.959999",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_water_physics_volume",
+            "bungie_mesh_water_volume_fog_color": "1.000000 0.341592 0.766805 1.000000",
+            "bungie_mesh_water_volume_flow_direction": "0.000000",
+            "bungie_mesh_water_volume_flow_velocity": "1.000000",
+            "bungie_mesh_water_volume_fog_murkiness": "0.150000",
+            "bungie_object_ID": "21d4c864-176a-4b17-da4e-c4db25f04ba7"
+        }
+    },
+    "material_properties": {
+        "water_koi_ponds_zen'.007": {
+            "bungie_shader_path": "levels\\solo\\m52\\shaders\\water\\water_fountain_zen_dark",
+            "bungie_shader_type": "shader_water"
+        },
+        "water_koi_ponds_zen'.005": {
+            "bungie_shader_path": "levels\\solo\\m52\\shaders\\water\\water_fountain_zen_dark",
+            "bungie_shader_type": "shader_water"
+        },
+        "water_koi_ponds_zen'.004": {
+            "bungie_shader_path": "levels\\solo\\m52\\shaders\\water\\water_fountain_zen_dark",
+            "bungie_shader_type": "shader_water"
+        },
+        "water_koi_ponds_zen'.009": {
+            "bungie_shader_path": "levels\\solo\\m52\\shaders\\water\\water_fountain_zen_dark",
+            "bungie_shader_type": "shader_water"
+        },
+        "water_koi_ponds_zen'.006": {
+            "bungie_shader_path": "levels\\solo\\m52\\shaders\\water\\water_fountain_zen_dark",
+            "bungie_shader_type": "shader_water"
+        },
+        "water_koi_ponds_zen'.008": {
+            "bungie_shader_path": "levels\\solo\\m52\\shaders\\water\\water_fountain_zen_dark",
+            "bungie_shader_type": "shader_water"
+        }
+    }
+}

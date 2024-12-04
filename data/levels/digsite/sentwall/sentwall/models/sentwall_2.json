@@ -1,0 +1,2794 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {},
+    "meshes_properties": {
+        "tunnel_veh_corner_01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "8de4f090-745d-630e-6411-b44b06c089cc"
+        },
+        "bramble_m02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "5adea152-2f77-4bbf-247b-c0bbf6ef5218",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "seam_beam_cavetiny02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "2835b866-0b96-f207-050f-1a89e730f1c4",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "hall_invlight34": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "7033fc32-163c-4f34-bb39-57fd57dea949",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tooth_half13": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "dd18ce8e-7fe6-3f2b-16ae-d820f8b87ce1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_l12": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "9b61f27c-ab84-ab2e-73b8-49596b4104f3",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "drivethru_c04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "4cf85a32-12e0-8e98-ae37-c9ea4fd57df3",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "light_floater_a35(Render Only).005": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "db762c30-3a83-2990-2c77-d9b604609683",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "seam_beam_half03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "25d8daa8-6935-d159-9f68-92a94237e9fe",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_<a.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "089b98c4-af84-d719-00f5-d62582d23397",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "hall_invlight41": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "531a6735-272f-b91b-aefe-423b46d96fbb",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_half02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "7fc296b9-7760-498d-e1de-cd99068d0232",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_m.010": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "7e2b3637-a6fd-e448-37aa-913d5fdbe720",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.019": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "78de31ed-ea45-36db-3d24-033a83513428",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "e954a44a-1cbe-277f-dc8f-17f34d091fa4",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_l11": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "947edd68-6364-2c01-663f-8dd87485b9ec",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tree_dead_small02.004": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "084448a8-b82c-8c93-5b2e-11f536aebe8e",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_m.028": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "3fd5dec6-2add-d6f8-e4ba-1f796ca69e6a",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tooth_half15": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "cfc46599-6e3b-48e3-b8b9-7065ac41397f",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wall_light21": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "2ec88494-d4ed-18c4-e275-dfc149ebe382",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_d": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "0eada8eb-0c6b-4d60-d6db-c17a302551e0",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "cinematic_anchor": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "55cbc767-70f8-b918-33dd-c23860a89c1b",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_big01(Two Sided, Render Only).003": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "91fe0717-8cd6-4756-8ac7-a8ae71644d8c",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_cave01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "7105a7d2-a814-c55a-0964-a3c0b8f35d4f",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "ground_light04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "5e221065-c475-c2d4-a30f-7110f4fc1356",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "light_floater_a35.001(Render Only).001": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "74a38c9a-44af-8b7a-68f9-595d42074c03",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "wall_light20": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "4ff47ab0-cffe-5740-2acf-69774cdb3147",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_a09": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "e63dcbf2-c0f6-5cca-3d19-4e94f30c2b36",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "drivethru_b01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "091fa004-efe2-5972-f44c-e2384c47c0e8",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_m.005": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "b3b9f2dd-660c-175e-2747-121a6f06eb07",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "wall_strut04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "df0fc619-c28f-c255-c670-ff68169b4879",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "arm_antenna": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "e2effcb7-a084-4c0a-f101-bd3fedfe373c",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_stumpa": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "d20fcf13-a2e1-a4f8-1e69-72ff1da55404",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beamb": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "41f1bed2-5137-5398-9107-27ed6f4d6627",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_m.002": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "2d1c8071-d98b-75e5-fe3b-8d47bb42f565",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "a_bridge": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "7afa79cf-666c-d09a-1362-86e782e6b488",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wall_light": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "10eee317-6e46-f643-9c1c-94ce956d2b30",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "z_lights_floodpits": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "cb980aac-0aea-c0f1-9b0a-6e1e7478f4ef",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_<<a01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "cba46009-d8e8-9740-f7a9-d5cbe940f33e",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wall_light22": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "4b8af078-573d-b483-6dce-a4428927df7d",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "hall_invlight35": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "bd9af3a6-6194-5b55-8422-275d658a8a35",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "light_floater_a35(Render Only).004": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "9f682587-0b76-d7e5-4a65-9c3581728305",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tree_dead_small02(Two Sided, Render Only).001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "4c0dec13-227a-6117-c460-a77d3918ae79",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_small02(Two Sided, Render Only)": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "eb8adbf4-a99d-36ec-8eaf-e9b39ef70a8a",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_small05": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "906b4621-143a-6c78-878c-2ce8d2bf105a",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_half": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "aacf10d9-3e3c-9845-18a3-6efc445b6fcc",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_m.014": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "bddd79ca-a646-16fa-8003-dcfb8e4ada5c",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble.003": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "01ddc50b-c89b-1fce-5811-31cca34b4fa3",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "ground_light01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "4ef2a7cf-7bc9-ee00-2a6e-15ebc1eaac42",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_m.023": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "62f4fc6a-fc90-8127-94c9-4449ff088e8f",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "light_floater_a35(Render Only).003": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "e5f36c72-1fb9-6c6a-ec1e-63af6ea0df9e",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "light_floater_a35(Render Only).002": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "cf27233c-0df9-58ee-942b-1d45e33f27ee",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble.012": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "f479961d-22cb-6e98-713d-f317460eb75e",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.012": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "11b3e29e-d147-a00e-f845-dec7fa021080",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tree_dead_big01(Two Sided, Render Only).004": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "b581943a-6a5b-2f1f-df1c-251cdbb6843a",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_m.021": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "5a764519-3d8f-e13b-716e-0aa6d387df63",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "light_floater_a31_wu02(Render Only, Two Sided, No Shadow)": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "de1a4143-70de-dd63-b2fc-a2cf07f4f626",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.003": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "4311810e-478a-0917-006c-f24af5562d7d",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "wall_light01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "c931b6eb-d69d-8852-dd66-cc3d889fcd43",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wall_light23": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "c95165dc-47e8-348c-efdc-caeb7b566e08",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_small02(collision).001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop_collision",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "60769def-b053-e56a-f355-7cd35f5a5ca5",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_big01(collision).003": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop_collision",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "68eb6491-9736-7c82-6b56-af1839b935b3",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_d01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "80c74b60-2ba7-78b8-7c87-6612a190ed03",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_small02.003": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "8107c741-5bde-f3ae-1735-30189036b63a",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_m.022": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "e25d64f3-1cea-ee2b-1d45-8b2b21046540",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "2c7936c3-d6c6-8815-0acd-a2a500967c18",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "wall_light12": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "2c3f08f2-5a9e-39c9-2420-6e4e27f96706",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_m.013": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "73c16ffb-9f18-eaa4-0e67-6e2e45fbdb0f",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.004": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "7fdf089b-a3f5-98c9-3f7e-ed4d713a437c",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "rock_<<a02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "47ea18b5-2d22-3b79-c72b-e7886dc4b987",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wall_light24": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "af9b07ce-2267-af56-ac65-cea9b70fd7dc",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "hall_invlight36": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "9d17e69c-1605-e3dc-9cac-47da2f1f8dd5",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "light_floater_a35(Render Only, Two Sided, No Shadow).001": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "a1d801a7-4374-782f-14cc-99dc30b9bc27",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_l.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "922ae414-8218-a81e-a77b-147ceabc7f83",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble.007": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "1149511f-2bfe-28c9-6f2c-2bd9f304ad39",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.027": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "c6d3b130-f92c-4847-080c-c20a9de71907",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_l.010": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "f84adaeb-b9d2-bdc1-f6db-ab366d829bad",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "shq_bsp0to1.max": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "efd74585-bfb9-e557-982c-ccc34a1c68e4"
+        },
+        "tooth_halfb03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "0dd3025e-d0f2-6fde-69e4-d596d8c87abc",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_cave03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "aa5e7923-b4dd-db56-4b0b-a6472ce70621",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble.016": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "22c031af-2943-a154-b293-869469b67abc",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_l04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "0ca69051-5624-8ea3-2724-e0c4a066e00c",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tooth_half05": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "0c4640ed-c9bd-4c73-ef1c-1f0060fa6fdc",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "light_floater_a35(Render Only).001": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "7dd8750e-9f26-f223-4b93-10749e3ad195",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "drivethru_a": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "8c704992-d4f4-c230-68a8-a0f323da7b6b",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_half04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "cf3bcf15-0bb5-28f8-c823-38652c33fdb2",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wall_new": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "04ee7c5d-f6c2-7e1a-e496-74916d1cf567"
+        },
+        "tree_dead_stumpa01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "9c926986-747f-5dd7-03b5-48c6a6f769ad",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "inv_halllights": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "04b1d3cc-4f2f-4050-407a-a3f4ff7902ae",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wall_light13": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "ef8ddadf-aa5a-ed94-70d2-b35745c8b5cd",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_<<a03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "96b83636-e158-337b-4f1a-38fba29a99f3",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wall_strut": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "9ff9214d-d268-7144-ced0-404b6dbef7f8",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "hall_invlight37": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "4662620e-5ce8-0f23-970d-12b8f4ccdac2",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "light_floater_a35(Render Only, Two Sided, No Shadow).004": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "c52b3286-32cf-35d4-28c3-87f0d8858b88",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tree_dead_big01(collision).004": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop_collision",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "d3296e2d-ab0a-e1ec-8060-04927f454340",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_small": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "7f5b64f4-37e2-25a0-e990-dd22714919b0",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_l02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "8090626d-762e-2f1a-fa43-2cc9489605c4",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "seam_beam_small12": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "30e0d613-2014-4ae8-6e30-f9ebaf819d2b",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_m.011": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "135ebe3d-a57d-63ce-78a8-b3872d56109e",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tooth_half14": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "eef84f1e-e0dd-2073-b4ae-a4866658ddfe",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "mesh_lowres": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "a18a2c33-a728-46d9-5f73-e710687755f8"
+        },
+        "inv_halllights03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "7b31f2ba-9e4b-d1b3-a8a0-60bf5bc66224",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_l05": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "5384f729-1af9-373e-cffb-62d7b4f505e6",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "rock_<a.002": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "46be732f-7cb8-5fee-9a15-87305c02bbcb",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_l.005": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "02a8aaf1-994b-68df-ecb6-69dd3735ce32",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.024": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "f02eb977-5040-1fbc-12f4-def0e18c7a4f",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.020": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "e05c38e7-2bb3-aa04-4684-9d396d821ee1",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.015": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "5cc26827-2d3d-8e54-0813-e68b2977f0a0",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.006": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "c9a615c3-f9b7-1d7f-2600-22c6bc57c9b9",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "light_floater_a35(Render Only)": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "6ed58f1d-ec01-f574-0a5a-d53451c1ece7",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tree_dead_big01.005": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "ad34fcd4-238e-c7e3-3a4e-78b6627eee86",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_stumpa02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "6ec74eb4-3e0e-fa60-5c8b-e8823f77558b",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wall_strut01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "053054a9-06eb-3172-8bd3-e67759318aa1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_<a": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "81ca3949-16cc-9471-aa93-1ce95c4a13d5",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wall_light14": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "84827f05-090d-eab4-6224-b7d7efbecf48",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_big01(collision)": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop_collision",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "6b7c1a98-923d-7fd4-e668-c7eec7c6ee12",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_small02(collision).002": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop_collision",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "c338ff18-c9d1-f64b-264f-0cbe26d67822",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "hall_invlight31": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "154d5732-c122-7ae3-1efa-718b27663647",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "light_floater_a35.001(Render Only)": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "ddb936d2-8c5b-d791-5e7b-b1f718fbb300",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tree_dead_small02.002": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "c5cac117-7490-baff-fc38-4218cd271f6c",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_m.007": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "8958f55f-585d-2918-9f20-3e6ea6f363ef",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.016": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "8f9fd44b-37e9-2372-c529-b1585dea6cd5",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tree_dead_big01(Two Sided, Render Only).005": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "1081ad1f-39d7-5f0c-bc6f-190d83a58be9",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wall_new(Two Sided, Render Only)": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "d46143aa-f333-b5fb-8606-a22216d55150",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "light_floater_a31_wu(Render Only)": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "2bef4ec3-74e8-2f0f-4a2c-91c420eeacdb",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.025": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "c8881ccc-5cce-d8c3-59a9-7c2002710ff2",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tree_dead_stumpb": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "9645c0c2-eee7-b4d3-b7f6-188f1bc6385d",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beamb02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "be284939-2458-d220-d1c8-b3067bdba994",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "light_floater_a35(Render Only, Two Sided, No Shadow).002": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "6bc22de4-6933-0629-dcdc-45f27ca9f977",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "light_floater_a31_wu02(Render Only, Two Sided, No Shadow).001": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "3e67b4e8-5429-544d-57cd-35df25f72745",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tree_dead_big01.004": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "77451d35-04b3-ab15-038c-336f0bf07b0c",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_half01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "838c9a90-d3cf-0200-ef60-3113aa2e1a21",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_<<a": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "75fbedf5-e891-c1ee-bde6-c5e596e68e04",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tooth_halfb02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "f26c9949-69f8-ef9d-a46b-8cd772798786",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wall_strut03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "eee8ca8a-850d-a31d-e2d9-d44b94c2fe15",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "hall_invlight42": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "4153d08c-cb3c-107f-3770-9b5cbdac61c6",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble.013": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "c06d1937-e9b1-d687-dcea-ca7bd75c4267",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "light_floater_a31_wu02(Render Only).001": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "235dda1d-c2bb-f70a-0d38-0a592c134ea9",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tree_dead_small02.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "369764b6-d3f9-0649-e8ad-104fc7fa859c",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_m.026": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "703847b6-d1f9-f47a-d7a0-0097875e18a2",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.017": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "733f1559-b895-f1db-0e67-25c80b373674",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.008": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "fbdbbf80-7a36-7b3f-439d-4d6f087e80bb",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "drivethru_a04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "925fa925-d0c2-04cb-eb4b-1b26eea4eda3",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wu_inv_tunnel_light": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "4b18a373-7c79-141b-43af-66bd3b043f30",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "light_floater_a35.001(Render Only, Two Sided, No Shadow).001": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "8fc721f6-9dd5-bdec-779c-cf8163233ac3",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "light_floater_a35.001(Render Only, Two Sided, No Shadow)": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "d4788200-d62d-1ec4-4b88-e222382a5ec0",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "hall_invlight43": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "a2d90d31-827a-4111-b5e9-3634c1980f81",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "light_floater_a31_wu02(Render Only)": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "03c4bccb-66a4-5698-539c-39435cd375dc",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tree_dead_small02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "b0377bd8-be89-4e56-0907-6156856bdb9f",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_small02(Two Sided, Render Only).002": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "f090641e-a688-ff99-6bdb-6c31843b5e5e",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_small02(collision)": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop_collision",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "a54052fb-bf4b-2a88-9613-96a7017c394c",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "drivethru_c02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "3f23268a-99e2-12dc-0221-7a380672c3c1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_m.018": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "8aeb995c-e5a0-07d8-94bd-608e41de0d3f",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m.009": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "f9853c35-6194-209d-ff3e-76ca535e027e",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_m": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "d14da134-14ff-595d-45ab-9382a7c7c8bc",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "debris_shell": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "764bcdd8-d52b-d51c-917e-29cfb3fd1809",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_big01(collision).005": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop_collision",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "4563f122-5d02-b602-c0b0-9947ecb0de8b",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "light_floater_a35(Render Only, Two Sided, No Shadow).005": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "17c9815f-19ba-3ed8-3dff-779356a21f9e",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_l.002": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "389cf99d-eb7b-9227-4387-86e64dd05c04",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble.008": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "daad3a55-7012-b540-553b-5db4fc02aadd",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "wall_light15": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "1bc49ee9-0049-3e51-9120-379dde4f63c2",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "light_floater_a35(Render Only, Two Sided, No Shadow).003": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "c826d3bf-5344-a63e-b0c9-fbcf445be119",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_l.011": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "61f0052f-ba5a-22f1-0ec9-cd6808a3ed2e",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "sky": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "a89ca3f7-5504-c695-8b51-3c7954061216"
+        },
+        "bramble.017": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "ffcb2e69-b24c-1670-3400-7c551634bea5",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "seam_beam": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "b91191a5-30f7-7e29-8fa5-c024b3cd07f1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bsp_0to1_cap": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "ba1021c0-446f-0f55-28f5-e5673a32515e"
+        },
+        "wall_strut02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "4687743d-676e-defc-4572-dd1a70d0b72a",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_b05": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "f6d7c472-8287-63f3-503d-cebeba4a067e",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_a04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "7a79ece5-a71c-3462-0b0f-88cb1767904e",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tooth_half07": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "88e51ca0-52d6-8f80-9ffd-07f6ff063e0e",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_l08": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "0205fb18-f0c1-d7e5-d52e-4ce014bedd08",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "rock_<a.004": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "084d7e99-f78f-2bd7-6c5d-25e1360aeb36",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wall_strut05": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "03e354ed-183c-7cc5-ec5f-10e07d2edeab",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tooth_halfb01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "be5eadb8-eee8-7d93-a67a-6c10d99d2766",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_c02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "e5fdc65c-45da-96f8-4f0f-67b8d17148af",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_small02(Two Sided, Render Only).003": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "22b75705-1155-7f04-872b-b270182e0f35",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tunnel_veh_corner_02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "abd45370-2bf0-4137-1147-91dfcd5a2828"
+        },
+        "seam_beam_small01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "7d9abd72-3efc-8e7a-613f-b802ff98c25c",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tube_connector": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "bfb83202-3203-d248-f8b5-64d8ca60eeaf"
+        },
+        "tree_dead_big01.003": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "088af94a-caf8-74d9-e035-875b54245090",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_big01.002": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "18b4e5d1-3751-53a9-75ca-00179fe0a268",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_cavetiny04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "5e469ff5-17f6-0429-e52c-1457665263bd",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_big01(collision).002": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop_collision",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "71116865-b9be-3ae8-c326-74d77932728a",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "ground_light": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "d79de3d8-c787-c5ab-ab03-be7265ae5b02",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "light_floater_a35(Render Only, Two Sided, No Shadow)": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "e6e2808b-cd76-04fc-2deb-ab07f108f388",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "rock_<a.003": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "185d649b-c16d-7595-63f9-9d11a99572af",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_l.006": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "a09c9d11-724c-f3d0-6988-e6a2077ac7ea",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble.004": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "c1e76d4c-11ad-4214-a7b1-6876f97dc980",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "arm_antenna03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "555ed590-cdf9-4e3e-9fa4-8da9dd44bcd8",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_b06": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "2d3a11d6-47b7-39c0-66fe-458e7a77f747",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_a05": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "fb46daca-4884-e7ef-3f03-245f531594e4",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_a": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "a96199e0-588f-bf73-6cb9-20a09576c2fe",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tooth_half08": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "d5255db2-d64f-7714-b8ae-0937f7632d1c",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_cave02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "5e9ddab9-1fe7-6f52-7637-96ea87895fba",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_cavetiny": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "4905f2fd-339f-b154-0177-accbaf7e051f",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_big01.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "e81e44ac-b681-5381-c4af-8fe6066118ec",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tunnel_veh_02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "b41f884e-b344-2dfe-36e1-d1527e1259a0"
+        },
+        "tree_dead_big01(collision).001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop_collision",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "56cc7d94-a0b9-9411-81b4-c192d3917215",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "ground_light05": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "3b3af2e6-fa90-3641-58e0-8fb82fd98d0b",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "chunk": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "8868a824-10aa-e3c3-66f4-bcdc34984269",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "cave_entrance_glow": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_object_ID": "951e76fb-b06c-3451-dd27-afcf501a540a"
+        },
+        "bramble.005": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "47bc33e7-83d0-11aa-a250-9e509fbe99dc",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "arm_antenna04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "d92a5999-781f-e244-878e-6c978691567a",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_log": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "6b39f634-a7cf-3414-7952-74658e17a093",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_b03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "1a68fbf5-6420-cea6-e61e-969daded1083",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_a06": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "7d49a0fe-fda6-5d98-431a-b421837b228d",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_l.012": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "ce473a91-5ce8-7450-c64c-1b9ef2aeaddd",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "seam_beam06": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "334611c9-1acb-9ccc-7b5b-b57bdcdaaf8e",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_big01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "d155ef9c-edae-7e7b-c95b-9f71db894d76",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_cavetiny01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "1b52c9ea-e6c8-c1f9-3d32-ef2dcd654d39",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_<<a.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "f898ff2c-5faf-038b-cb6f-043e0952bc7d",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "ground_light02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "c04b05ed-21cc-ef74-6897-eb4f0c2e2460",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "a_arm01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "a3b9975d-26b1-ce75-5979-3296cff69c2f",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble.014": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "ec9dbf22-3d64-961b-6ac0-6abc9ef5b3e8",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "seam_beam07": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "6dc710a3-d72d-5b71-290e-309f7bdd57ea",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_l09": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "5eabe281-d44f-444b-44b8-c78e725cb000",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_l06": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "a8e16464-4712-7709-485a-553e641f6117",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_l03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "6d038524-da4e-1526-ceb3-5bf3125c248d",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_l.004": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "4b7d1c59-0039-9678-955c-343e26fa19ca",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble.015": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "4fc4e52b-d9fd-2397-ea62-7dffbc8b9b2c",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble.006": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "aa97352e-d9e8-46b9-57c9-b5ebe019069d",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "rock_b01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "430e0ca3-4103-3c64-74e9-79530af16a43",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_a07": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "fbb331d3-d04a-4b1f-9dca-783523ea35b4",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bsp_swap_cap": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "3d578072-0cd4-df70-701b-2f2554737b12"
+        },
+        "bramble01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "831618b1-5057-f422-ba24-1d6a300e4663",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "inv_halllights02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "a5375764-ec85-c33b-e783-0fe18e1344ab",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "hall_invlight40": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "13fe2173-ae7e-4eb5-791c-f65b0a3193a6",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_a01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "43af78cd-f642-d17c-3651-b756192eebf6",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_cavetiny03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "71b34298-fd70-5197-d4d7-69f151da872b",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_big01(Two Sided, Render Only).001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "edcf3bb7-33b2-6b4a-ae02-58177b70633c",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "drivethru_b03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "b4ce3dc1-41fd-18ea-d605-dd0f0135525d",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_small09": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "05daab05-b7ad-4818-6ca1-31ecf9074a5d",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "ground_light06": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "f1c7089a-8b39-9f73-335e-0b95cd8e6f88",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "gate_support": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "6ec6a61d-4ce5-b899-71cf-a736b49b8dca",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "hall_invlight32": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "659710c4-87d2-0bfe-b159-33c789c12acc",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_<<a.002": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "a1e36c40-4ce4-e41e-e898-719a071e9eff",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_cave": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "5bce9956-86e3-1a17-e960-496687b14e4b",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_l.003": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "582f9cea-1611-fc87-200d-c42dd9366475",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tree_dead_small02(Two Sided, Render Only).004": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "1c28d97f-4bde-0331-05d9-7411fa2a98eb",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_<<a.005": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "af75bbd2-b666-3023-3553-16550cf7b16e",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_small02(collision).004": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop_collision",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "f6f34c69-e026-b4d3-c07a-58da4165e294",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "wall_light19": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "5d69a182-3143-52ec-e3db-501a3e8dd270",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tunnel_veh_04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "995dd9e3-2e27-b921-8cc0-a527aca6dc04"
+        },
+        "tooth_halfb04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "3ab8ec99-4ce4-f8b6-7ac0-c488dc69e420",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_cave04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "67e90016-e6f4-42c4-085f-188e17247e6b",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble.018": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "a572bbbd-0697-2488-6888-34e413e3f6fa",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "rock_b04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "028045de-0ba7-635a-e342-b651dfb6b4d4",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_a10": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "94c5d538-1e7c-5b21-5ead-dc07eca0ff10",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tunnel_veh_05": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "1a0d0ad0-e013-39ef-1b13-ad44092d9c60"
+        },
+        "mesh_structure": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "a1848cf2-b416-e6be-dfeb-ec2adecb97fc"
+        },
+        "seam_beam_small10": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "de1404e7-c168-f1fd-1afd-a73f608b1d85",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "ground_light07": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "9c191863-421e-24f8-5927-c20be4c02404",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "drivethru_b04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "ae7cc674-4923-45be-c78f-34acf7290f00",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "gate_support01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "0612d4e7-3971-e23c-ea9f-6ef412012a25",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tooth_half10": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "80b056fa-ea2c-abd5-9d49-2d7ccdb65e6f",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_<<a.003": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "c85b3e0d-8b56-d2c0-7525-07a8bb4ebe92",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_small04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "f00b9da4-ec72-7b63-7969-3945ccc6e24c",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_cavetiny05": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "eb2bacfd-9cc7-e94a-3783-2d381f4e1690",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tooth_halfb": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "46f9f22f-9312-e3c5-1149-8ee2a0b36a68",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tooth": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "9dd1fb87-a314-9235-5c2e-7d9ac44c3203",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "+portal": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_portal",
+            "bungie_object_ID": "b11c32a2-f723-0c3b-d7f4-4aafcbc08b17",
+            "bungie_mesh_portal_type": "_connected_geometry_portal_type_two_way"
+        },
+        "bramble_l.007": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "ee3baaf8-082e-4d20-c2d6-e53486bb3cf1",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble.009": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "b2fef8b7-b4ee-329f-150d-b8505039f3a5",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "86c7c89a-5707-08be-9c15-ce423063f97f",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tree_dead_log01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "a2c266d3-f178-2d8b-c6a0-7db803a4414b",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_a11": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "c810bf8a-bf59-e808-4ca8-4884b9a58c05",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tunnel_veh_extender": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "81335464-c22d-4a9d-7f97-0c8e2fae5d60"
+        },
+        "mesh_wall divide": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "f27bad12-5a48-0081-b6f6-75e9c2ea0240"
+        },
+        "hall_invlight33": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_single_probe",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "9d1ed6a5-f17d-62b4-858e-06aee86bf64a",
+            "bungie_face_mode": "_connected_geometry_face_mode_lightmap_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tooth_half": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "47b8b662-05a9-d5c1-1717-5976b0cfd55d",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tooth_half12": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "bd734a02-1275-3179-a71e-f472f96c68d6",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_<<a.004": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "fc3ec8c4-2b9c-edc9-5477-14ed85a06afb",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_small02(collision).003": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop_collision",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "adc214f3-03fc-2e21-16c1-de42cc96d9a5",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "light_floater_a31_wu(Render Only, Two Sided, No Shadow)": {
+            "bungie_no_shadow": "1",
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "3bc435e9-476f-748c-195f-11290615504d",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "cave_entrance_light": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "3d16c880-f28b-34d0-0041-d03962dd7821",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_l01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "32110ff7-a2eb-2e6b-f7c7-6f2f9aa516b0",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "mesh_hires": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "e4a51d5f-aef2-5617-9eaf-977ea6735e6d"
+        },
+        "bramble_l.008": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "a155bbf4-d189-5558-b12d-d170da4bbf5b",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble.019": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "ccc11a77-207e-0879-f1f9-cef6945406c3",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble.010": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "31bbf375-6158-b2e3-35de-40e16618fcd3",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "267ac2e6-ab1c-c44c-7814-51cfb0ca47e0",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "rock_b02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "4ce7def9-deef-70a7-3ce2-0a3c15961b21",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_a12": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "db1d9971-b646-1d9f-d346-c68a739a0724",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_a02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "6b4022f6-606a-a813-9e31-70e5db8b78d7",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "drivethru_c03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "865cc78b-7ddf-a134-40fa-4c6b04270b2e",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "seam_beam_small13": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "8c70efdb-4268-e160-c144-0e861e0fae0b",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tooth_half04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "c95f5c90-a228-aa24-a160-ef809e39d90b",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_big01(Two Sided, Render Only).002": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "7286584a-17de-851e-62a6-8b1d9f8f58d2",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_l07": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "f830da99-4ad6-a7ee-7886-dd2eda6ae580",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "tunnel_veh_ramp_01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "a56dce3a-c979-e522-fcac-a45d2a020f64"
+        },
+        "ground_light03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "a4c18bb5-42bb-6133-a438-79092f3ef339",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "drivethru_d": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "b5985b36-d9bd-07fb-8d6a-b2fbead744ab",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_l": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "643163e5-674a-7750-2909-83147385a78d",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble_l.009": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "d076221d-ec8b-bd2d-acb8-d8e5f5007149",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble.020": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "8a10f55b-ebb0-d91b-034b-26c3144da088",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble.011": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "00888b44-b2f3-09f7-0ca2-f4948ad9c070",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "bramble.002": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "b89d17ee-0af1-9c6d-9711-48331a91627a",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "rock_b": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "9317d30f-ee0e-aeaf-899d-4e30bb01a604",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "rock_a03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_static",
+            "bungie_object_ID": "d76ef8ee-0aee-45ae-377e-401d0a4f5761",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "tree_dead_big01(Two Sided, Render Only)": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "30ccca66-ed3a-d085-8a03-c14d16002c38",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bramble_l10": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_none",
+            "bungie_object_ID": "03fcabe1-b8a2-9acf-2bf2-eabf1b4af9fb",
+            "bungie_mesh_poop_is_render_only": "1",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        }
+    },
+    "material_properties": {
+        "f forerunner_rusted_blue": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\forerunner_rusted_blue",
+            "bungie_shader_type": "shader"
+        },
+        "f plate_rusted": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\plate_rusted",
+            "bungie_shader_type": "shader"
+        },
+        "f forerunner_rusted_grey": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\forerunner_rusted_grey",
+            "bungie_shader_type": "shader"
+        },
+        "hq shq_tree_dead_leaf": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\shq_tree_dead_leaf",
+            "bungie_shader_type": "shader"
+        },
+        "+seamsealer": {
+            "bungie_shader_path": "bungie_face_type=_connected_geometry_face_type_seam_sealer",
+            "bungie_shader_type": "override"
+        },
+        "hq shq_wreckage": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\shq_wreckage",
+            "bungie_shader_type": "shader"
+        },
+        "hq tech_melt": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\tech_melt",
+            "bungie_shader_type": "shader"
+        },
+        "+invisible": {
+            "bungie_shader_path": "objects\\levels\\shared\\shaders\\invisible",
+            "bungie_shader_type": "shader"
+        },
+        "hq shq_ext_exposed": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\shq_ext_exposed",
+            "bungie_shader_type": "shader"
+        },
+        "hq shq_light_various_sepia": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\shq_light_various",
+            "bungie_shader_type": "shader"
+        },
+        "hq rocko_frosty_boulder": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\rocko_frosty_boulder",
+            "bungie_shader_type": "shader"
+        },
+        "hq shq_tree_dead_bark": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\shq_tree_dead_bark",
+            "bungie_shader_type": "shader"
+        },
+        "hq light_shq_coolbar": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\light_shq_coolbar",
+            "bungie_shader_type": "shader"
+        },
+        "hq shq_wall_base": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\shq_wall_base",
+            "bungie_shader_type": "shader"
+        },
+        "hq shq_base_rust": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\shq_base_rust",
+            "bungie_shader_type": "shader"
+        },
+        "hq shq_wall_bigtrim": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\shq_wall_bigtrim",
+            "bungie_shader_type": "shader"
+        },
+        "f_im forerunner_rusted_grey": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\forerunner_rusted_grey",
+            "bungie_shader_type": "shader"
+        },
+        "hq light_long_volume_noanim": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\light_longvolume_noanim",
+            "bungie_shader_type": "shader"
+        },
+        "+invalid": {
+            "bungie_shader_path": "shaders\\invalid",
+            "bungie_shader_type": "shader"
+        },
+        "hq shq_tube_main": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\shq_tube_main",
+            "bungie_shader_type": "shader"
+        },
+        "f_im panels_thin_strips": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\panels_thin_strips",
+            "bungie_shader_type": "shader"
+        },
+        "f_im flat_dark_scratchy": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\flat_dark_scratchy",
+            "bungie_shader_type": "shader"
+        },
+        "f_im flat_generic": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\flat_generic",
+            "bungie_shader_type": "shader"
+        },
+        "hq shq_wall_big2_rust": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\shq_wall_big_2rust",
+            "bungie_shader_type": "shader"
+        },
+        "hq shq_wall_big1_rust": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\shq_wall_big_1rust",
+            "bungie_shader_type": "shader"
+        },
+        "hq a_lowres": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\a_lowres",
+            "bungie_shader_type": "shader_terrain"
+        },
+        "hq walllight_volume": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\walllight_volume",
+            "bungie_shader_type": "shader"
+        },
+        "+sky": {
+            "bungie_shader_path": "bungie_face_type=_connected_geometry_face_type_sky",
+            "bungie_shader_type": "override"
+        },
+        "f_im panels_thin_strips_rusted": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\panels_thin_strips_rusted",
+            "bungie_shader_type": "shader"
+        },
+        "f_il light_bands": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\light_band",
+            "bungie_shader_type": "shader"
+        },
+        "hq a_hires_snow": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\a_hires_snow",
+            "bungie_shader_type": "shader_terrain"
+        },
+        "hq a_hires_cliff": {
+            "bungie_shader_path": "dreary\\h2\\all\\mcc_halo2_tiff_source\\scenarios\\shaders\\a_hires_cliff",
+            "bungie_shader_type": "shader_terrain"
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ],
+        "connected_geometry_regions_table_enum_names": [
+            "'17','10','12','03','13','05','11','20','16','04','02','19','unnamed','18','14'"
+        ],
+        "connected_geometry_regions_table_enum_values": [
+            "0,1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+        ]
+    },
+    "nodes_properties": {
+        "armature": {
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771",
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "3e57d348-3adc-58d6-143f-dfde066a8c14"
+        },
+        "frame control panels": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        }
+    },
+    "meshes_properties": {
+        "11.cylinder": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "11",
+            "bungie_object_ID": "7c193160-20ae-4d8b-328a-425b39d11c69"
+        },
+        "18.cylinder": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "18",
+            "bungie_object_ID": "ae31688f-cd0a-8fbc-ea08-b6e76eb8cbd8"
+        },
+        "12.cylinder": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "12",
+            "bungie_object_ID": "861a865e-bfeb-8bf2-ecae-77f328f31604"
+        },
+        "14.panels": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "14",
+            "bungie_object_ID": "0266c71f-0834-33b5-38ab-3b672ba8adf7"
+        },
+        "13.panels": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "13",
+            "bungie_object_ID": "d705f56a-a2c4-f31d-e23e-ede8c8b1670e"
+        },
+        "04.cylinder": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "04",
+            "bungie_object_ID": "1c71ac1c-2db1-ff84-cf52-275bf8b57c63"
+        },
+        "05.cylinder": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "05",
+            "bungie_object_ID": "6d27b9d8-c48d-307a-9713-daa39d63e8dc"
+        },
+        "16.plate": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "16",
+            "bungie_object_ID": "a6f39270-d8f6-2259-3ac9-596c988f090f"
+        },
+        "10.cylinder": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "10",
+            "bungie_object_ID": "7cab1deb-25b6-4c88-8d17-27785a3b151f"
+        },
+        "03.cylinder": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "03",
+            "bungie_object_ID": "53a52e21-0a8f-7b5f-4414-01184a49e37c"
+        },
+        "19.cylinder": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "19",
+            "bungie_object_ID": "78fc66ea-0253-2f91-88ec-38287eabd9c1"
+        },
+        "17.cylinder": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "17",
+            "bungie_object_ID": "b23f9b7b-8ef5-354e-563b-0a0771860c19"
+        },
+        "20.disc": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "20",
+            "bungie_object_ID": "c4e1d8f6-ae14-736a-9284-291ec671c667"
+        },
+        "02.basis": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "02",
+            "bungie_object_ID": "cb77644f-2157-10c8-374d-5587b7a1cc51"
+        },
+        "unnamed": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "unnamed",
+            "bungie_object_ID": "6c51cbea-80a3-c2a8-78c9-243e8d4a20f0"
+        }
+    },
+    "material_properties": {
+        "3d sphere": {
+            "bungie_shader_path": "levels\\digsite\\gephyrophobia\\sky\\shaders\\basis",
+            "bungie_shader_type": "shader"
+        },
+        "static down": {
+            "bungie_shader_path": "objects\\props\\digsite\\hangar_control_panels\\shaders\\static2",
+            "bungie_shader_type": "shader"
+        },
+        "holo control": {
+            "bungie_shader_path": "objects\\props\\digsite\\hangar_control_panels\\shaders\\holocontrol",
+            "bungie_shader_type": "shader"
+        },
+        "static left": {
+            "bungie_shader_path": "objects\\props\\digsite\\hangar_control_panels\\shaders\\static2",
+            "bungie_shader_type": "shader"
+        },
+        "static all": {
+            "bungie_shader_path": "objects\\props\\digsite\\hangar_control_panels\\shaders\\static2",
+            "bungie_shader_type": "shader"
+        }
+    }
+}

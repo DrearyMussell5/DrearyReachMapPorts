@@ -1,0 +1,189 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {},
+    "meshes_properties": {
+        "bsp_a_bridge_ship": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "25eded99-fb84-759d-80b3-fd6963979c81"
+        },
+        "structure_base_fin6": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "f5bec1d2-dadb-fd6f-6d84-44705bc72070",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "structure_base_fin5": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "375bc565-0f72-62e3-d698-c356f7f02c5b",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "structure_base_fin4": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "5e9939a3-f16f-8dca-0177-e03147e088e6",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "portals": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_portal",
+            "bungie_object_ID": "71c1000c-e3d7-c627-cbe8-33d0fac4c90d",
+            "bungie_mesh_portal_type": "_connected_geometry_portal_type_two_way"
+        },
+        "structure_base_fin3": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "75c0bddc-37a6-66cd-b2f6-e9376a7ea4cf",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "structure_base_fin2": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "cbabb489-71a1-30a3-b26a-27d238bae72f",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "structure_decorative_fin_joiners": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "2164475c-dbd6-60f5-5414-621b96c95bfd",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "structure_base_fin1": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "70516731-96ac-aeb8-5cc5-9e92ef50fe46",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bsp_a_command_ship": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "cec2781f-c6d6-209b-d305-4c5f47dfa4bf",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bsp_a_terrain": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "9334f349-946f-4fde-2c49-0c3eeb94deb8"
+        },
+        "bsp_a_structure": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "a0cc5e73-8a5e-3894-d448-2693b9e31875"
+        },
+        "structure_decorative_fin": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "bb355bd9-a229-752b-d97b-dd4874f3b644",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "structure_base_fin8": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "c6e274cd-d85d-f90f-3bf1-276bdc935931",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        },
+        "bsp_a_sky": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_object_ID": "3c242474-7a3d-6939-f0be-21e10acbd320"
+        },
+        "structure_base_fin7": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop",
+            "bungie_mesh_poop_lighting": "_connected_geometry_poop_lighting_per_pixel",
+            "bungie_mesh_poop_pathfinding": "_connected_poop_instance_pathfinding_policy_cutout",
+            "bungie_object_ID": "a47552ad-7ce0-57c1-41b8-c4b218c7c151",
+            "bungie_mesh_poop_imposter_policy": "_connected_poop_instance_imposter_policy_never"
+        }
+    },
+    "material_properties": {
+        "m1a c_command_shuttle": {
+            "bungie_shader_path": "objects\\vehicles\\covenant\\covenant_fleet\\cruiser\\shaders\\cruiser",
+            "bungie_shader_type": "shader"
+        },
+        "m1a metal_plain": {
+            "bungie_shader_path": "levels\\digsite\\assault\\m1_assault\\shaders\\metal_plain",
+            "bungie_shader_type": "shader"
+        },
+        "+invisible": {
+            "bungie_shader_path": "objects\\levels\\shared\\shaders\\invisible",
+            "bungie_shader_type": "shader"
+        },
+        "m1a exterior": {
+            "bungie_shader_path": "levels\\digsite\\assault\\m1_assault\\shaders\\exterior",
+            "bungie_shader_type": "shader_terrain"
+        },
+        "m1a exterior_b": {
+            "bungie_shader_path": "levels\\digsite\\assault\\m1_assault\\shaders\\exterior",
+            "bungie_shader_type": "shader_terrain"
+        },
+        "m1a structure_base": {
+            "bungie_shader_path": "levels\\digsite\\assault\\m1_assault\\shaders\\structure_base",
+            "bungie_shader_type": "shader"
+        },
+        "m1a structure_back": {
+            "bungie_shader_path": "levels\\digsite\\assault\\m1_assault\\shaders\\structure_back",
+            "bungie_shader_type": "shader"
+        },
+        "m1a mast_exterior": {
+            "bungie_shader_path": "levels\\digsite\\assault\\m1_assault\\shaders\\mast_exterior",
+            "bungie_shader_type": "shader"
+        },
+        "m1a metal_large_conduits": {
+            "bungie_shader_path": "levels\\digsite\\assault\\m1_assault\\shaders\\metal_large_conduits",
+            "bungie_shader_type": "shader"
+        },
+        "m1a metal_large_conduits_vert": {
+            "bungie_shader_path": "levels\\digsite\\assault\\m1_assault\\shaders\\metal_large_conduits",
+            "bungie_shader_type": "shader"
+        },
+        "m1a metal_strip_buried": {
+            "bungie_shader_path": "levels\\digsite\\assault\\m1_assault\\shaders\\metal_strip_buried",
+            "bungie_shader_type": "shader"
+        },
+        "m1a metal_generic": {
+            "bungie_shader_path": "levels\\digsite\\assault\\m1_assault\\shaders\\metal_generic",
+            "bungie_shader_type": "shader"
+        },
+        "m1a metal_strips_wide": {
+            "bungie_shader_path": "levels\\digsite\\assault\\m1_assault\\shaders\\metal_strips_wide",
+            "bungie_shader_type": "shader"
+        },
+        "m1a metal_strips_decorative_wide": {
+            "bungie_shader_path": "levels\\digsite\\assault\\m1_assault\\shaders\\metal_strips_decorative_wide_bump",
+            "bungie_shader_type": "shader"
+        },
+        "+sky": {
+            "bungie_shader_path": "bungie_face_type=_connected_geometry_face_type_sky",
+            "bungie_shader_type": "override"
+        }
+    }
+}

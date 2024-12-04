@@ -1,0 +1,104 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ],
+        "connected_geometry_regions_table_enum_names": [
+            "'11','unnamed','05','09','14','07','10','08'"
+        ],
+        "connected_geometry_regions_table_enum_values": [
+            "0,1,2,3,4,5,6,7"
+        ]
+    },
+    "nodes_properties": {
+        "armature": {
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771",
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "7e9de9a2-9c70-784f-9e37-4080c468d95b"
+        },
+        "frame holo markers": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        },
+        "frame holo ring": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "706856979",
+            "bungie_frame_ID2": "-322887163",
+            "bungie_object_animates": "1"
+        }
+    },
+    "meshes_properties": {
+        "unnamed": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "unnamed",
+            "bungie_object_ID": "e61ba6a9-2219-5502-3cf3-58e70b005849"
+        },
+        "08.pointers": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "08",
+            "bungie_object_ID": "d06484e4-d87c-52d3-28e6-0236ab370d88"
+        },
+        "09.pointers": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "09",
+            "bungie_object_ID": "f060fda1-baeb-5e57-0ef4-a1faed81b755"
+        },
+        "10.pointers": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "10",
+            "bungie_object_ID": "57e45152-d4dc-b490-6aaa-16d21c9ac49b"
+        },
+        "07.pointers": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "07",
+            "bungie_object_ID": "2b6ed645-e305-0af0-89ac-90f4402da8fe"
+        },
+        "05.pointers": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "05",
+            "bungie_object_ID": "cf35f1b5-4d6e-0ed4-f6b1-0efd20016e28"
+        },
+        "14.pointers": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "14",
+            "bungie_object_ID": "dd9c2919-0371-77f8-a820-887915771932"
+        },
+        "11.pointers": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "11",
+            "bungie_object_ID": "a1362c6d-4300-8b5f-f7d1-999f2c66741f"
+        }
+    },
+    "material_properties": {
+        "ring markers": {
+            "bungie_shader_path": "objects\\props\\digsite\\hangar_ring\\shaders\\marker",
+            "bungie_shader_type": "shader"
+        },
+        "inner ring": {
+            "bungie_shader_path": "objects\\props\\digsite\\hangar_ring\\shaders\\ring_hologram",
+            "bungie_shader_type": "shader"
+        },
+        "outer ring": {
+            "bungie_shader_path": "objects\\props\\digsite\\hangar_ring\\shaders\\ring_hologram",
+            "bungie_shader_type": "shader"
+        },
+        "grid": {
+            "bungie_shader_path": "objects\\props\\digsite\\hangar_ring\\shaders\\ring_grid",
+            "bungie_shader_type": "shader"
+        }
+    }
+}

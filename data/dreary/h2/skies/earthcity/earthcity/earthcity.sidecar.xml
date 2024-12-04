@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><Metadata>
+  <Header>
+    <MainRev>0</MainRev>
+    <PointRev>6</PointRev>
+    <Description>Forged in Foundry</Description>
+    <Created>2024-11-22 00:58:37</Created>
+    <By>bdipi</By>
+    <DirectoryType>TAE.Shared.NWOAssetDirectory</DirectoryType>
+    <Schema>1</Schema>
+    <SourceBlend>dreary\h2\skies\earthcity\earthcity\earthcity.blend</SourceBlend>
+    <BlenderVersion>4.3.0</BlenderVersion>
+    <FoundryVersion>1.0.36</FoundryVersion>
+    <AnimationOnly>False</AnimationOnly>
+  </Header>
+  <Asset Name="earthcity" Type="sky" Sky="true">
+    <OutputTagCollection>
+      <OutputTag Type="model">dreary\h2\skies\earthcity\earthcity\earthcity</OutputTag>
+      <OutputTag Type="scenery">dreary\h2\skies\earthcity\earthcity\earthcity</OutputTag>
+    </OutputTagCollection>
+  </Asset>
+  <Folders>
+    <Reference>\reference</Reference>
+    <Temp>\temp</Temp>
+    <SourceModels>\models\work</SourceModels>
+    <GameModels>\models</GameModels>
+    <GamePhysicsModels>\models</GamePhysicsModels>
+    <GameCollisionModels>\models</GameCollisionModels>
+    <ExportModels>\export\models</ExportModels>
+    <ExportPhysicsModels>\export\models</ExportPhysicsModels>
+    <ExportCollisionModels>\export\models</ExportCollisionModels>
+    <SourceAnimations>\animations\work</SourceAnimations>
+    <AnimationsRigs>\animations\rigs</AnimationsRigs>
+    <GameAnimations>\animations</GameAnimations>
+    <ExportAnimations>\export\animations</ExportAnimations>
+    <SourceBitmaps>\bitmaps</SourceBitmaps>
+    <GameBitmaps>\bitmaps</GameBitmaps>
+    <CinemaSource>\cinematics</CinemaSource>
+    <CinemaExport>\export\cinematics</CinemaExport>
+    <ExportBSPs>\models</ExportBSPs>
+    <SourceBSPs>\models</SourceBSPs>
+    <RigFlags>\animations\rigs\flags</RigFlags>
+    <RigPoses>\animations\rigs\poses</RigPoses>
+    <RigRenders>\animations\rigs\render</RigRenders>
+    <Scripts>\scripts</Scripts>
+    <FacePoses>\animations\rigs\poses\face_poses</FacePoses>
+    <CinematicOutsource>\outsource</CinematicOutsource>
+    <Retarget>\working\retarget</Retarget>
+    <RetargetSourceAnimations>\working\retarget\binge</RetargetSourceAnimations>
+    <RetargetTargetAnimations>\working\retarget\purge</RetargetTargetAnimations>
+    <Export>\export</Export>
+    <CinematicSceneSegments>\segments</CinematicSceneSegments>
+    <SourceAnimationLibrary>\animations\library</SourceAnimationLibrary>
+  </Folders>
+  <FaceCollections>
+    <FaceCollection Name="regions" StringTable="connected_geometry_regions_table" Description="Model regions">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+        <FaceCollectionEntry Index="1" Name="00" Active="true"/>
+        <FaceCollectionEntry Index="2" Name="01" Active="true"/>
+        <FaceCollectionEntry Index="3" Name="02" Active="true"/>
+        <FaceCollectionEntry Index="4" Name="03" Active="true"/>
+        <FaceCollectionEntry Index="5" Name="04" Active="true"/>
+        <FaceCollectionEntry Index="6" Name="05" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+  </FaceCollections>
+  <Contents>
+    <Content Name="earthcity" Type="model">
+      <ContentObject Name="" Type="render_model">
+        <ContentNetwork Name="sky" Type="">
+          <InputFile>dreary\h2\skies\earthcity\earthcity\earthcity.blend</InputFile>
+          <IntermediateFile>dreary\h2\skies\earthcity\earthcity\export\models\earthcity_render_sky.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="moon" Type="">
+          <InputFile>dreary\h2\skies\earthcity\earthcity\earthcity.blend</InputFile>
+          <IntermediateFile>dreary\h2\skies\earthcity\earthcity\export\models\earthcity_render_moon.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="clouds" Type="">
+          <InputFile>dreary\h2\skies\earthcity\earthcity\earthcity.blend</InputFile>
+          <IntermediateFile>dreary\h2\skies\earthcity\earthcity\export\models\earthcity_render_clouds.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="lighting" Type="">
+          <InputFile>dreary\h2\skies\earthcity\earthcity\earthcity.blend</InputFile>
+          <IntermediateFile>dreary\h2\skies\earthcity\earthcity\export\models\earthcity_render_lighting.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="midground" Type="">
+          <InputFile>dreary\h2\skies\earthcity\earthcity\earthcity.blend</InputFile>
+          <IntermediateFile>dreary\h2\skies\earthcity\earthcity\export\models\earthcity_render_midground.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="foreground" Type="">
+          <InputFile>dreary\h2\skies\earthcity\earthcity\earthcity.blend</InputFile>
+          <IntermediateFile>dreary\h2\skies\earthcity\earthcity\export\models\earthcity_render_foreground.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="render_model">dreary\h2\skies\earthcity\earthcity\earthcity</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="skeleton">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>dreary\h2\skies\earthcity\earthcity\earthcity.blend</InputFile>
+          <IntermediateFile>dreary\h2\skies\earthcity\earthcity\export\models\earthcity_skeleton.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection/>
+      </ContentObject>
+    </Content>
+  </Contents>
+</Metadata>

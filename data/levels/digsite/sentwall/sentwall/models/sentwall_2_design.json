@@ -1,0 +1,36 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {},
+    "meshes_properties": {
+        "rain_blocker:weatherocclude": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop_rain_blocker",
+            "bungie_object_ID": "2ed2aa96-d254-455b-d3e4-e4db6f90e5bb",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        },
+        "fog:plane": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_fog_appearance_tag": "levels\\solo\\m10\\post_fx\\waterfall_planar_fog.planar_fog_parameters",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_planar_fog_volume",
+            "bungie_mesh_fog_volume_depth": "90.000000",
+            "bungie_object_ID": "56f2458c-52bb-082c-3536-9415b8a5a340"
+        }
+    },
+    "material_properties": {
+        "+weatherpoly": {
+            "bungie_shader_path": "fx\\fx_anchor\\shaders\\invisible",
+            "bungie_shader_type": "shader"
+        },
+        "+invisible": {
+            "bungie_shader_path": "objects\\levels\\shared\\shaders\\invisible",
+            "bungie_shader_type": "shader"
+        }
+    }
+}

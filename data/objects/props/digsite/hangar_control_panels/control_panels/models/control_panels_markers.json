@@ -1,0 +1,54 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {
+        "armature": {
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771",
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "3e57d348-3adc-58d6-143f-dfde066a8c14"
+        },
+        "frame control panels": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        },
+        "light4": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "light4",
+            "bungie_object_ID": "224ecbab-d5c0-335c-59f5-caa82e9baf97"
+        },
+        "light3": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "light3",
+            "bungie_object_ID": "f43b444d-fd78-34d4-9969-40945ecf59aa"
+        },
+        "light2": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "light2",
+            "bungie_object_ID": "631083aa-b576-b7eb-14c0-e669fbfd3c24"
+        },
+        "light1": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "light1",
+            "bungie_object_ID": "25db54fa-b35f-7f91-d3a7-226975705b7a"
+        }
+    },
+    "meshes_properties": {},
+    "material_properties": {}
+}

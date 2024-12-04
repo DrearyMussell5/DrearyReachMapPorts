@@ -1,0 +1,25 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {},
+    "meshes_properties": {
+        "rain_blocker:weatherocculuder": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_poop_rain_blocker",
+            "bungie_object_ID": "5205ca4d-c1e2-a946-89c7-c7304062038b",
+            "bungie_face_mode": "_connected_geometry_face_mode_render_only"
+        }
+    },
+    "material_properties": {
+        "+weatherpoly": {
+            "bungie_shader_path": "fx\\fx_anchor\\shaders\\invisible",
+            "bungie_shader_type": "shader"
+        }
+    }
+}

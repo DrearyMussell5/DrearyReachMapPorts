@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Metadata>
+  <Header>
+    <MainRev>0</MainRev>
+    <PointRev>6</PointRev>
+    <Description>Forged in Foundry</Description>
+    <Created>2024-11-06 13:05:16</Created>
+    <By>bdipi</By>
+    <SourceBlend>dreary\h2\skies\firstwall\firstwall\firstwall.blend</SourceBlend>
+    <DirectoryType>TAE.Shared.NWOAssetDirectory</DirectoryType>
+    <Schema>1</Schema>
+  </Header>
+  <Asset Name="firstwall" Type="sky" Sky="true">
+    <OutputTagCollection>
+      <OutputTag Type="model">dreary\h2\skies\firstwall\firstwall\firstwall</OutputTag>
+      <OutputTag Type="scenery">dreary\h2\skies\firstwall\firstwall\firstwall</OutputTag>
+    </OutputTagCollection>
+  </Asset>
+  <Folders>
+    <Reference>\reference</Reference>
+    <Temp>\temp</Temp>
+    <SourceModels>\models\work</SourceModels>
+    <GameModels>\models</GameModels>
+    <GamePhysicsModels>\models</GamePhysicsModels>
+    <GameCollisionModels>\models</GameCollisionModels>
+    <ExportModels>\export\models</ExportModels>
+    <ExportPhysicsModels>\export\models</ExportPhysicsModels>
+    <ExportCollisionModels>\export\models</ExportCollisionModels>
+    <SourceAnimations>\animations\work</SourceAnimations>
+    <AnimationsRigs>\animations\rigs</AnimationsRigs>
+    <GameAnimations>\animations</GameAnimations>
+    <ExportAnimations>\export\animations</ExportAnimations>
+    <SourceBitmaps>\bitmaps</SourceBitmaps>
+    <GameBitmaps>\bitmaps</GameBitmaps>
+    <CinemaSource>\cinematics</CinemaSource>
+    <CinemaExport>\export\cinematics</CinemaExport>
+    <ExportBSPs>\models</ExportBSPs>
+    <SourceBSPs>\models</SourceBSPs>
+    <RigFlags>\animations\rigs\flags</RigFlags>
+    <RigPoses>\animations\rigs\poses</RigPoses>
+    <RigRenders>\animations\rigs\render</RigRenders>
+    <Scripts>\scripts</Scripts>
+    <FacePoses>\animations\rigs\poses\face_poses</FacePoses>
+    <CinematicOutsource>\outsource</CinematicOutsource>
+  </Folders>
+  <FaceCollections>
+    <FaceCollection Name="regions" StringTable="connected_geometry_regions_table" Description="Model regions">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+        <FaceCollectionEntry Index="1" Name="40" Active="true"/>
+        <FaceCollectionEntry Index="2" Name="50" Active="true"/>
+        <FaceCollectionEntry Index="3" Name="85" Active="true"/>
+        <FaceCollectionEntry Index="4" Name="93" Active="true"/>
+        <FaceCollectionEntry Index="5" Name="97" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+    <FaceCollection Name="global materials override" StringTable="connected_geometry_global_material_table" Description="Global material overrides">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+  </FaceCollections>
+  <Contents>
+    <Content Name="firstwall" Type="model">
+      <ContentObject Name="" Type="render_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>dreary\h2\skies\firstwall\firstwall\firstwall.blend</InputFile>
+          <IntermediateFile>dreary\h2\skies\firstwall\firstwall\export\models\firstwall_sky.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="render_model">dreary\h2\skies\firstwall\firstwall\firstwall</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+    </Content>
+  </Contents>
+</Metadata>
